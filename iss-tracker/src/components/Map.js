@@ -45,7 +45,7 @@ class Map extends Component {
 
     return (
       <div>
-        <p className='coords'>latitude: {this.state.center.lat}</p>
+        <p className='coords'>Latitude: {this.state.center.lat}</p>
         <p className='coords'>Longitude: {this.state.center.lng}</p>
         <div className='map' style={{height: '100vh', width: '100%'}}>
           <GoogleMapReact className='map'
