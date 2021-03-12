@@ -3,6 +3,7 @@ import GoogleMapReact from "google-map-react";
 import './map.css'
 
 const ISS_URL = "http://api.open-notify.org/iss-now.json";
+const ASTRO_URL ="http://api.open-notify.org/astros.json"
 const MAP_KEY = process.env.REACT_APP_MAP_KEY;
 const img = <img src="./iss.svg" alt="iss" height="45px" />;
 
@@ -38,6 +39,7 @@ class Map extends Component {
         })
       );
   };
+
 
   render() {
     console.log("LAT:", this.state.center.lat);
