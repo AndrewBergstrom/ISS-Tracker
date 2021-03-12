@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ISS-Tracker/static/css/main.0d7994e4.chunk.css",
+    "main.js": "/ISS-Tracker/static/js/main.ea35628e.chunk.js",
+    "main.js.map": "/ISS-Tracker/static/js/main.ea35628e.chunk.js.map",
+    "runtime-main.js": "/ISS-Tracker/static/js/runtime-main.0b8727ca.js",
+    "runtime-main.js.map": "/ISS-Tracker/static/js/runtime-main.0b8727ca.js.map",
+    "static/css/2.fe359a49.chunk.css": "/ISS-Tracker/static/css/2.fe359a49.chunk.css",
+    "static/js/2.5266000a.chunk.js": "/ISS-Tracker/static/js/2.5266000a.chunk.js",
+    "static/js/2.5266000a.chunk.js.map": "/ISS-Tracker/static/js/2.5266000a.chunk.js.map",
+    "static/js/3.8b66844d.chunk.js": "/ISS-Tracker/static/js/3.8b66844d.chunk.js",
+    "static/js/3.8b66844d.chunk.js.map": "/ISS-Tracker/static/js/3.8b66844d.chunk.js.map",
+    "index.html": "/ISS-Tracker/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/ISS-Tracker/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.0d7994e4.chunk.css.map": "/ISS-Tracker/static/css/main.0d7994e4.chunk.css.map",
+    "static/js/2.5266000a.chunk.js.LICENSE.txt": "/ISS-Tracker/static/js/2.5266000a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8727ca.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.5266000a.chunk.js",
+    "static/css/main.0d7994e4.chunk.css",
+    "static/js/main.ea35628e.chunk.js"
+  ]
+}
