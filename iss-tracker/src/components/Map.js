@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import GoogleMapReact from "google-map-react";
 import './map.css'
 
-const ISS_URL = "http://api.open-notify.org/iss-now.json";
-const ASTRO_URL ="http://api.open-notify.org/astros.json"
+const ISS_URL = "https://api.open-notify.org/iss-now.json";
 const MAP_KEY = process.env.REACT_APP_MAP_KEY;
 const img = <img src="./iss.svg" alt="iss" height="45px" />;
 
